@@ -1,2 +1,13 @@
 # hello-world
 just a another hello world with a twist
+Hello world with a twist
+now it's two twist
+OH, it seems like there's three twists now
+Hell, it seems there is five twist
+At last I got the number of twist in this document right
+...
+...
+Damp...
+...
+No of twists: seven
+~THE END~
